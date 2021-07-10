@@ -60,7 +60,7 @@ services:
     volumes:
       - todo-mysql-data:/var/lib/mysql
     environment:
-      MYSQL_ROOT_PASSWORD: secret
+      ``````````````````````````MYSQL_ROOT_PASSWORD: secret``````````````````````````
       MYSQL_DATABASE: todos
 
 volumes:
